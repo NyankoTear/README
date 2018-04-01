@@ -20,5 +20,6 @@ Title Test
 |:----------------------|:------------------|:-----------------|
 |   Major Releases      |   Version 1 -> 2 -> 3 |   Includes major changes to the interface and new functionality|
 |Minor Releases |   Version 1.0 -> 1.1 -> 1.2 | Includes minor changes to the interface and some new functionality|
+|Revision Releases| blablabla| Includes \| revision \| changes \| to \| the \| interface |
 
 
