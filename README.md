@@ -1,2 +1,3 @@
-# README
-Please read this before using the project.
+# Testing in VSCode
+
+This is a test.
